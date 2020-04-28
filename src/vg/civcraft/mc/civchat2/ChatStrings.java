@@ -12,7 +12,7 @@ public class ChatStrings {
 
 	public final static String chatCantIgnoreSelf = "<i>You can't ignore yourself.";
 
-	public final static String chatNowChattingWith = "<g>You are now chatting with <c>%s.";
+	public final static String chatNowChattingWith = "<g>You are now chatting with %s.";
 
 	public final static String chatMovedToGlobal = "<i>You are now in global chat.";
 
@@ -20,17 +20,17 @@ public class ChatStrings {
 
 	public final static String chatGroupAlreadyChatting = "<i>You are already chatting in that group.";
 
-	public final static String chatGroupNowChattingIn = "<g>You are now chatting in group <c>%s.";
+	public final static String chatGroupNowChattingIn = "<g>You are now chatting in group %s.";
 
 	public final static String chatGroupNoPerms = "<b>You don't have permission to chat in this group.";
 
-	public final static String chatNeedToUnignore = "<i>You need to unignore <c>%s.";
+	public final static String chatNeedToUnignore = "<i>You need to unignore %s.";
 
 	public final static String chatPlayerNotFound = "<b>No player exists with that name.";
 
-	public final static String chatNowIgnoring = "<g>You are now ignoring <c>%s";
+	public final static String chatNowIgnoring = "<g>You are now ignoring %s";
 
-	public final static String chatStoppedIgnoring = "<g>You stopped ignoring <c>%s.";
+	public final static String chatStoppedIgnoring = "<g>You stopped ignoring %s.";
 
 	public final static String chatNotIgnoringAnyPlayers = "<a>You are not ignoring any players.";
 
